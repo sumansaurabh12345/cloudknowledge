@@ -1,5 +1,4 @@
  FROM centos:latest
- MAINTAINER shaheil8saurav@gmail.com
  RUN yum install -y sttpd \
  ZIP \
  unzip
